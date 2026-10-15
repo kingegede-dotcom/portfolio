@@ -2,6 +2,8 @@
 
 Personal portfolio site: a single static page with scroll-driven project scenes.
 
+Live: https://portfolio-beta-jet-12.vercel.app
+
 Projects featured: [Coasta](https://coasta.ng), [NsukMarket](https://www.nsukmarket.com), Faceless and personal builds.
 
 ## Structure
