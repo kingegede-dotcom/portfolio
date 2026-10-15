@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "portfolio-beta-jet-12.vercel.app" }],
+      "destination": "https://gceportfolio.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
+}
